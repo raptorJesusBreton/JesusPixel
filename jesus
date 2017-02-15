@@ -1,6 +1,3 @@
-//mark(300, getColor(200, 173, 127));
-moveTowardCell(0);
-
 var aureole = getColor(255, 255, 5);
 var peau = getColor(200, 173, 127);
 var tifs = getColor(47, 27, 12);
@@ -21,4 +18,4 @@ mark(cellPeau, peau);
 mark(cellTifs, tifs);
 mark(cellTong, tong);
 mark(cellTunique, tunique);
-pause();
+
